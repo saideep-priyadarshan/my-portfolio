@@ -13,7 +13,10 @@
 // import { createHistoryAwareRetriever } from "langchain/chains/history_aware_retriever";
 // import { createRetrievalChain } from "langchain/chains/retrieval";
 
-// export async function POST(req: Request) {
+export async function POST(req: Request) {
+  return new Response("Chat feature temporarily disabled", { status: 503 });
+}
+
 //   try {
 //     const body = await req.json();
 //     const messages = body.messages;
