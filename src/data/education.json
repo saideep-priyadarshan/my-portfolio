@@ -1,0 +1,33 @@
+{
+  "education": [
+    {
+      "name": "Masai School",
+      "href": "https://www.masaischool.com",
+      "title": "Software Development",
+      "logo": "/masai.jpeg",
+      "start": "Oct 2024",
+      "end": "June 2025",
+      "description": [
+        "Learned full-stack web development with a focus on React, Node.js, Express and MongoDB.",
+        "Improved problem-solving skills through Data Structures and Algorithms.",
+        "Worked on multiple projects including a online book library and a event management platform.",
+        "Participated in Construct Weeks & Hackathons."
+      ]
+    },
+    {
+      "name": "C. V. Raman Global University",
+      "href": "https://cgu-odisha.ac.in",
+      "title": "BTech in Computer Science Engineering (Data Science Specialization)",
+      "logo": "/cvrgu.png",
+      "start": "Dec 2020",
+      "end": "June 2024",
+      "links": [
+        {
+          "name": "Major Project",
+          "href": "https://jazindia.com/index.php/jaz/article/view/4194",
+          "icon": "globe"
+        }
+      ]
+    }
+  ]
+}

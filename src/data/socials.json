@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://linkedin.com/in/saideep-priyadarshan",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/saideep-priyadarshan",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:priyadarshansaideep@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

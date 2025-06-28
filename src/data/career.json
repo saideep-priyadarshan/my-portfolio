@@ -1,0 +1,57 @@
+{
+  "career": [
+    {
+      "name": "",
+      "href": "",
+      "title": "",
+      "logo": "",
+      "start": "",
+      "description": [
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "href": "",
+      "title": "",
+      "logo": "",
+      "start": "",
+      "end": "",
+      "description": [
+        "",
+        ""
+      ],
+      "links": [
+        {
+          "name": "",
+          "href": "https://elegant-weather.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "href": "",
+      "title": "",
+      "logo": "",
+      "start": "",
+      "end": "",
+      "description": [
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "href": "",
+      "title": "",
+      "logo": "",
+      "start": "",
+      "end": "",
+      "description": [
+        ""
+      ]
+    }
+  ]
+}

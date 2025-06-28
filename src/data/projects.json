@@ -1,0 +1,107 @@
+{
+  "projects": [
+    {
+      "name": "Muven",
+      "description": "Comprehensive event management platform that enables users to create events, manage RSVPs and send invitations.",
+      "image": "/muven.png",
+      "tags": [
+        "React",
+        "React Context API",
+        "React Router",
+        "Netlify",
+        "Google Maps API",
+        "CSS"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/saideep-priyadarshan/B43_WEB_125_Web-Project-120-Event_Management_Platform",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://muven.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Online Book Library",
+      "description": "Functional and elegant application that allows users to browse books, manage their borrowed items, and interact through reviews and ratings.",
+      "image": "/obl.png",
+      "tags": [
+        "React",
+        "TailwindCSS",
+        "Firebase",
+        "React Router",
+        "React Context API"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/saideep-priyadarshan/B44_WEB_032-Library_Management_System",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://libmsys.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Todo Website",
+      "description": "A website for showcasing the features and capabilities of a versatile todo application.",
+      "image": "/todoist.png",
+      "tags": ["HTML", "CSS", "JavaScript", "Netlify"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Ankit1141192/Todoist",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://bright-cendol-1e0307.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Elegant Weather App",
+      "description": "Sleek weather app with a design inspired by glass. Displays location on a map and provides 5-day forecast.",
+      "image": "/weather_app.png",
+      "tags": ["JavaScript", "CSS", "HTML", "OpenWeatherMap API", "Google Maps API"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/saideep-priyadarshan/weather-app",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://elegant-weather.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "EssenTube",
+      "description": "A video streaming platform inspired by YouTube's UI.",
+      "image": "/et.png",
+      "tags": ["JavaScript", "HTML", "YouTube Data API", "CSS"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/saideep-priyadarshan/saideep_fs40_3701341",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://yt-essential.netlify.app",
+          "icon": "globe"
+        }
+      ]
+    }
+  ]
+}
