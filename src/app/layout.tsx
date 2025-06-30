@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Providers from "@/components/Providers";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Calistoga, Inter } from "next/font/google";
 import "./globals.css";
 
@@ -32,6 +33,7 @@ export default function RootLayout({
           calistoga.variable,
         )}
       >
+        <SpeedInsights />
         <Providers>
           <Header />
           <main className="grow">{children}</main>
